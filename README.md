@@ -39,7 +39,7 @@ XTRX.CC--是一家专注于TRX能量租赁与TRX兑换服务的专业平台。�
 
 1‌、访问官方渠道‌
 
-官网：https://bttrx.com/
+官网：https://xtrx.cc/
 
 Telegram机器人：@trx8898_bot
 ‌
